@@ -1,0 +1,32 @@
+.logo {
+  margin-left: 20px;
+}
+
+.col.s12 > .btn {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.col.s4 > .btn {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.radius{
+  border-radius: 200px !important;
+}
+
+.input-field :focus + label {
+  color: #ef6c00 !important;
+}
+
+.input-field :focus {
+  border-bottom: 1px solid #ef6c00 !important;
+  box-shadow: 0 1px 0 0 #ef6c00 !important;
+}
+
+.push {
+  margin-right: 15px;
+}
+
+
